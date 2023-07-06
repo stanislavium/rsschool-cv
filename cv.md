@@ -3,8 +3,5 @@ Hello! My name is Stanislav Fedoriv
 Сontacts for communication - [discord](https://discord.com/channels/@me/1126527217707536415),[telegram](https://t.me/stanislavium), stanislav.ff@yandex.ru  
 I work as an integration manager.  
 API, postgresql, kafka tools, xml, apache zeppellin  
--
--
-**education - higher
-English level - basic.
-**
+education - higher  
+English level - basic  
